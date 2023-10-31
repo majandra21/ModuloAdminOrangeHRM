@@ -1,0 +1,15 @@
+{
+  "name": "automatizacion-orangehrm-admin",
+  "version": "1.0.0",
+  "description": "\"Automatizaciones básicas del modulo admin de la página OrangeHRM en Cypress.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "author": "Maria Guevara Ruiz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.4.0"
+  }
+}
